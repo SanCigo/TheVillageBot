@@ -10,3 +10,5 @@ With this bot is possible to:
 ## More about The Village:
 - [Game rules](https://telegra.ph/The-Village-regolamento-12-13)  
 - [Buy the cards on MakePlayingCards](https://www.makeplayingcards.com/sell/marketplace/the-village.html)
+
+🗓 2021 – ongoing
